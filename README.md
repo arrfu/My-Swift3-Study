@@ -13,9 +13,7 @@ swift3 学习笔记
 
 1.官网swift3教程    https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/BasicOperators.html#//apple_ref/doc/uid/TP40014097-CH6-ID60   
 
-2.官网swift资料： https://developer.apple.com/swift/resources/  
-
-3.Swift Programming Language：https://developer.apple.com/swift/   
+2.官网swift资料： https://developer.apple.com/swift/resources/    
 
 
 #二、练习Demo:   
