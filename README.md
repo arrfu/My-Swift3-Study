@@ -18,6 +18,7 @@ https://developer.apple.com/swift/resources/     
 
 
 #二、练习Demo:   
+PS : Demo纯属个人练习代码，高手请自行忽略。        
 
 Demo : https://github.com/arrfu/My-Swift3-Study/tree/master/swift3StudyDemo   
 
